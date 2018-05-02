@@ -1,3 +1,4 @@
+/*
 function outerFunction () {
     const outer = `I see the outer variable!`
   
@@ -8,3 +9,5 @@ function outerFunction () {
   
 let outer = outerFunction() // I see the outer variable!
 console.log(outer())
+*/
+
